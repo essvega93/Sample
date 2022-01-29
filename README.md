@@ -29,9 +29,6 @@
 
   <h3 align="center">Dating App</h3>
 
-  <p align="center">
-    Dating app development 
-  </p>
 </div>
 
 
