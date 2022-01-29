@@ -40,11 +40,10 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Hello 
+Hello,
 
-This is not fully completed app. I built this project to show my code style. Of course, this project is just UI development and may not have all features as you want. 
-
-If you want to see some of my code samples, then please don’t hesitate to contact me.
+This sample is not an entirely developed app but it shows my coding style. This is focused on UI development and may not have all features like a finished app.
+If you wish to see some more of coding, dont hesitate to reach out to me.
 
 
 
@@ -59,7 +58,7 @@ If you want to see some of my code samples, then please don’t hesitate to cont
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Please make sure that you already setup Flutter environement. 
+Please make sure that Flutter environment is already setup in your computer
 
 ### Installation
 
