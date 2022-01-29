@@ -43,6 +43,7 @@
 Hello,
 
 This sample is not an entirely developed app but it shows my coding style. This is focused on UI development and may not have all features like a finished app.
+
 If you wish to see some more of coding, dont hesitate to reach out to me.
 
 
